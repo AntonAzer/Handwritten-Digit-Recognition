@@ -1,5 +1,10 @@
 # Handwritten Digit Recognition, the "Hello world" of Computer Vision :)
 
+**Program Window:** 
+
+<img width="1620" height="928" alt="image" src="https://github.com/user-attachments/assets/4ee9598d-c443-41bb-b92b-697616e22e72" />
+
+
 A pure Python desktop application that allows users to draw multiple digits on a canvas and predicts them using a Convolutional Neural Network (CNN) trained on the MNIST dataset. The application can detect, segment, and predict multiple digits drawn side-by-side from left to right.
 
 ## Features
