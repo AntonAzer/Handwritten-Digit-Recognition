@@ -1,4 +1,5 @@
-# Handwritten Digit Recognition, the "Hello world" of Computer Vision :)
+# Handwritten Digit Recognition, the "Hello world" of Computer Vision :) 
+
 
 **Program Window:** 
 
