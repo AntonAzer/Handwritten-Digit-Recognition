@@ -10,7 +10,7 @@ class DigitRecognizerApp:
         self.root = root
         self.root.title("Multiple Digit Recognizer")
         
-        if not os.path.exists("digit_model.h5"):
+        if not os.path.exists("digit_model.h5"): # the name of model file
             print("Please run train.py first to generate the model!")
             self.root.destroy()
             return
