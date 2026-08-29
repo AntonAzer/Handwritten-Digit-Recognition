@@ -22,3 +22,5 @@ pip install -r requirements.txt
 ```
 -------------------------------
 Actually I uploaded the .h5 file so you don't need to train the model first by command "python train.py" just go for "python main.py" to test it, this model trained on about 70k image already.
+
+This [Video](https://youtu.be/w8yWXqWQYmU?si=ufApkzgX1vN8mruE) is related and useful.
